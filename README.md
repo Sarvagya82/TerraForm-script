@@ -1,6 +1,3 @@
-Certainly! I'll prepare a comprehensive document outlining the project we've created. This document will serve as a summary and reference for the WordPress on ECS project using Terraform.
-
----
 
 # WordPress on ECS with ALB, RDS, and Secrets Manager
 
